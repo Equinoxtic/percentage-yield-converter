@@ -5,8 +5,8 @@ If ``make`` has been installed in the system already, then you can proceed to th
 Run the following set of commands
 
 ```sh
-$ git clone https://github.com/Equinoxtic/percentage-yield-converter.git
-$ cd percentage-yield-converter
+$ git clone https://github.com/Equinoxtic/yield-converter.git 
+$ cd yield-converter
 $ make
 $ ./yieldconverter
 ```

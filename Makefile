@@ -5,5 +5,5 @@ SRC = src/yieldconverter.c \
 	  src/yieldvariable.c \
 	  src/cligui.c
 
-yieldconverter:
+ypcalc:
 	gcc $(CFLAGS) -o yieldconverter $(SRC)

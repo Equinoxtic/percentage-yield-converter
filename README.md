@@ -1,4 +1,4 @@
-# A Yield Percentage Converter made in C
+# A Yield Percentage Calculator made in C
 
 References:
 

@@ -8,7 +8,7 @@ References:
 
 Overview:
 
-This is a yield percentage converter made in C, it uses the traditional and respected formula in the program and rounds the result off in output
+This is a simple yield percentage calculator made in C, it uses the traditional and respected formula in the program and rounds the result off in output
 
 Formula: ``% Yield = (actual_yield/theoretical_yield) * 100``
 

@@ -1,5 +1,5 @@
-#ifndef MAIN_C_
-#define MAIN_C_
+#ifndef YIELDC_C_
+#define YIELDC_C_
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -40,4 +40,4 @@ int main(int argc, char **argv)
 	return 0;
 }
 
-#endif // main.c
+#endif // yieldc.c

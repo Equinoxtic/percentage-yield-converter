@@ -17,7 +17,7 @@ float get_yield_percentage(float output, float input, int should_round)
 
 void output_yield_percentage(YieldVariable *output, YieldVariable *input)
 {
-	const char* perc_s = "Percentage / %%";
-	printf("\n[(Rounded) %s] : %g", perc_s, get_yield_percentage(output->value, input->value, 1));
-	printf("\n[(Unrounded) %s] : %g", perc_s, get_yield_percentage(output->value, input->value, 0));
+	const char* perc_s = "Percentage /";
+	printf("\n[(Rounded) %s %%] : %g", perc_s, get_yield_percentage(output->value, input->value, 1));
+	printf("\n[(Unrounded) %s %%] : %g", perc_s, get_yield_percentage(output->value, input->value, 0));
 }

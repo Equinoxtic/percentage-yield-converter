@@ -1,6 +1,3 @@
-#ifndef YIELDC_C_
-#define YIELDC_C_
-
 #include<stdio.h>
 #include<stdlib.h>
 #include "yieldvariable.h"
@@ -40,4 +37,3 @@ int main(int argc, char **argv)
 	return 0;
 }
 
-#endif // yieldc.c
